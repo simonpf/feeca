@@ -346,7 +346,7 @@ count: false
 ## Future Work
 
 - Investigate performance
-- Implementation of remaining exterior calculus operators
+- Implementation of remaining exterior calculus operations
 - Cubical elements
 
 ## Ideas
