@@ -346,7 +346,7 @@ count: false
 ## Future Work
 
 - Investigate performance
-- Implementation of remaining exterior calculus operators
+- Implementation of remaining exterior calculus operations
 - Cubical elements
 
 ## Ideas
@@ -356,7 +356,7 @@ count: false
 ---
 
 ## Interested?
-- FEECa on GitHub
+- FEECa on GitHub: [https://github.com/Airini/FEECa](https://github.com/Airini/FEECa)
 - Great Haskell tutorial: [Learn you a Haskell](http://learnyouahaskell.com/)
 
 ## References
