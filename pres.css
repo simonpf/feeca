@@ -8,6 +8,8 @@ body {
     color: #000000;
 }
 
+.remark-slide-content { background-size: contain; }
+
 h1 {
     font-family: 'Open Sans', sans-serif;
     font-size: 30pt !important;
@@ -67,7 +69,7 @@ div .footnote
     vertical-align: super;
     line-height: normal;
     position: fixed;
-    bottom: 100px;
+    bottom: 80px;
 }
 
 .small {
